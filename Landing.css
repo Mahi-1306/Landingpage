@@ -1,0 +1,45 @@
+.header
+{
+    display:flex;
+    justify-content:space-between ;
+  
+  background: linear-gradient(to right, white 0%, #a8f0a0 50%, green 100%);
+}
+
+
+.i
+{
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    width: 40%;
+}
+.i button{
+    border-radius: 15%;
+    background-color:darkseagreen;
+    color: aliceblue;
+}
+.first
+{
+    display: flex;
+    
+}
+.first img{
+    background-color: black;
+    width: 500px;
+}
+.about{
+    text-align: center;
+    line-height: 2;
+}
+.lpg
+{
+    display:flex;
+     justify-content:space-around ;
+    
+}
+.divider{
+     width: 1px;
+      background-color: black;
+      margin: 0 20px;
+}
